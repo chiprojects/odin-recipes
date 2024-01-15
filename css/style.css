@@ -1,0 +1,26 @@
+.orange-button{
+    background: orange;
+}
+
+.brown-button{
+    background: brown;
+}
+
+.orange-button,
+.brown-button{
+    font-size: 18px;
+    text-align: center;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 24px ;
+    text-align:left;
+}
+
+.tortilla-instructions{
+    background-color: beige;
+}
