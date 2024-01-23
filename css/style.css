@@ -21,6 +21,64 @@ h2{
     text-align:left;
 }
 
-.tortilla-instructions{
+.tortilla-ingredients{
     background-color: beige;
+    margin: 8px;
+    padding: 32px;
+    border: 32px;
+}
+
+.tortilla-instructions{
+    margin-bottom: 8px;
+}
+
+ol{
+    padding-left: 32px;
+    display: block;
+    width: 350px;
+    text-align: center;
+    margin: 0 auto;
+   
+}
+
+
+.title{
+    text-align: center;
+    margin: 8px;
+}
+
+ ol{
+    text-align: center;
+}
+li{
+    padding: 8px;
+}
+
+.tortilla-ingredients ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+.recipe-title{
+    border: 2px solid black;
+    margin-bottom: 8px;
+    font-weight: 800px;
+}
+.title-in-Igbo{
+    text-align: center;
+    margin: 8px;
+    height: 20px;
+
+}
+
+.Plaintain-Instructions{
+    text-align: center;
+}
+
+.Plaintain-Instructions-Container{
+    border: 3px dotted orange;
+    width: fit-content;
+    text-align: center;
+    margin: 0 auto
+   
 }
