@@ -54,7 +54,8 @@ li{
     padding: 8px;
 }
 
-.tortilla-ingredients ul{
+.tortilla-ingredients ul,
+.plantains-ingredients ul{
     text-align: center;
     list-style-type: none;
 }
